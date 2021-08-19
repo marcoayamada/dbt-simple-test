@@ -1,0 +1,5 @@
+# example db
+https://raw.githubusercontent.com/pthom/northwind_psql/master/northwind.sql
+
+# video guide
+https://www.youtube.com/watch?v=5rNquRnNb4E
